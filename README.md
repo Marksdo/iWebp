@@ -1,6 +1,6 @@
 # iWebp - Convert Images To Webp
 
-Download [the latest release from macos appstore](https://apps.apple.com/us/app/id1663442012)
+Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id1663442012)
 
 ## macOS active iWebp in Settings
 ![macOS-active-iWebp](imgs/macos-active-step1.png)
