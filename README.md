@@ -1,3 +1,14 @@
+# README.md
+- [Deutsch](README.de.md)
+- [English](README.md)
+- [Spanish](README.es.md)
+- [French](README.fr.md)
+- [Italian](README.it.md)
+- [언어](README.ko.md)
+- [日本語](README.ja.md)
+- [简体中文](README.zh_cn.md)
+- [繁体中文](README.zh_tw.md)
+
 # iWebp - Convert Images To Webp
 
 Download [the latest release from macOS appstore](https://apps.apple.com/us/app/id1663442012)
